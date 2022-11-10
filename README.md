@@ -19,3 +19,7 @@ During installation, macchanger will ask whether or not MAC addresses should be 
 After reboot, look for an access point named "Google Free Wi-Fi." Connecting to it from any device should automatically bring up a captive portal login screen.
 
 Credentials are logged in `/var/www/html/creds.txt`.
+
+# Notiz
+
+Habe einen Counter hinzugefügt, der in `/var/www/html/counter.txt` schreibt.
